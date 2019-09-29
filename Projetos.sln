@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projetos", "Projetos.csproj", "{FEF9804A-9B2B-4857-BE25-9C8B3036FDE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2FA0DC95-C29D-498A-A4D7-1F7D6D4D9186}"
+	ProjectSection(SolutionItems) = preProject
+		angular.json = angular.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleEngenhos", "ConsoleEngenhos\ConsoleEngenhos\ConsoleEngenhos.csproj", "{AFFCFC69-C583-4877-89C0-59EE0ADF17CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF9804A-9B2B-4857-BE25-9C8B3036FDE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF9804A-9B2B-4857-BE25-9C8B3036FDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF9804A-9B2B-4857-BE25-9C8B3036FDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF9804A-9B2B-4857-BE25-9C8B3036FDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFFCFC69-C583-4877-89C0-59EE0ADF17CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFCFC69-C583-4877-89C0-59EE0ADF17CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFCFC69-C583-4877-89C0-59EE0ADF17CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFCFC69-C583-4877-89C0-59EE0ADF17CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF138D5B-E567-418F-81DC-3CC3A5A066A3}
+	EndGlobalSection
+EndGlobal
